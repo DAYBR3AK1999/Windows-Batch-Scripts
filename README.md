@@ -1,7 +1,7 @@
-# -Windows-Batch-Scripts
+# Windows-Batch-Scripts
 
-Simple Batch Scripts.
+Simple Windows Backup Batch Scripts.
 
 This script is useful if you want a scheduled task to dump and backup any chosen database by you.
 
-More coming.
+More backup scripts coming soon.
