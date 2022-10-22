@@ -1,7 +1,5 @@
 @echo off
 
-:: make sure to change the settings from line 8-13
-
 :: Database Connection
 
 :: Put Database Username.
